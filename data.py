@@ -3,10 +3,10 @@
 
 # Student data
 students = [
-    ["name", "John Doe", "breakfast", "cereal"],
-    ["name", "Jane Smith", "breakfast", "toast"],
-    ["name", "Alex Johnson", "breakfast", "eggs"],
-    ["name", "Sarah Davis", "breakfast", "yogurt"]
+    ["name", "Kay", "breakfast", "cereal " "eggs"],
+    ["name", "Derek", "breakfast", "toast " "cereal"],
+    ["name", "Suling", "breakfast", "eggs " "toast "],
+    ["name", "Krish", "breakfast", "yogurt " "eggs "]
 ]
 
 # Function to search for student names
